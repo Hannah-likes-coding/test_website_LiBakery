@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","2487","homepage loads and has expected content","","Tue Jul 15 10:44:12 NZST 2025","passed","Tue Jul 15 10:44:15 NZST 2025","","tests\homepage.spec.js","",""

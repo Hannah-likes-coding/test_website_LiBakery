@@ -1,0 +1,121 @@
+# Page snapshot
+
+```yaml
+- link "Skip to content":
+  - /url: "#wp--skip-link--target"
+- banner:
+  - heading "Li's Bakery" [level=1]
+  - navigation "Header navigation":
+    - list:
+      - listitem:
+        - link "Home":
+          - /url: /2024/09/01/181/
+      - listitem:
+        - link "How to Make":
+          - /url: https://www.youtube.com/watch?v=i7REn4RRRRE
+      - listitem:
+        - link "Product":
+          - /url: "#"
+        - button "Product submenu"
+      - listitem:
+        - link "Contact":
+          - /url: "#"
+        - button "Contact submenu"
+- paragraph:
+  - strong: Homemade & Healthy
+- heading "The Perfect Baked Cakes!" [level=2]
+- paragraph: Please subscribe me on YouTube channel!
+- link "Subscribe":
+  - /url: https://www.youtube.com/@liyang9875
+- figure:
+  - img "Strawberry Birthday Cake"
+- figure
+- heading "Online Chat Hours" [level=3]
+- paragraph:
+  - strong: Monday – Friday
+- paragraph:
+  - strong: 10:00am – 5:00pm
+- paragraph:
+  - strong: Sunday
+- paragraph:
+  - strong: 12:00pm – 3:00pm
+- figure
+- heading "Contact me" [level=4]
+- paragraph: (+00) 16881688
+- main:
+  - heading "Introduction" [level=4]:
+    - strong: Introduction
+  - heading "My Bakery" [level=2]
+  - figure
+  - heading "Strawberry Birthday Cake" [level=3]
+  - paragraph:
+    - text: The soft, velvety
+    - emphasis: strawberry cake
+    - text: of your dreams! A light and fluffy vanilla sponge is filled with fresh strawberries and canned peach！
+  - link "Watch Video":
+    - /url: https://www.youtube.com/watch?v=i7REn4RRRRE&t=6s
+  - figure
+  - heading "Chocolate Birthday Cake" [level=3]
+  - paragraph: Chocolate cake without Cream and Icing!
+  - paragraph: Super Soft with fresh Blueberries and Strawberries!
+  - link "Subscribe Me":
+    - /url: https://www.youtube.com/@liyang9875
+  - figure
+  - heading "Egg Waffle" [level=3]
+  - paragraph: The egg waffle shaped like an egg, in Chinese it’s called Jidanzi, one of the long-standing popular street foods in Hong Kong.
+  - link "Watch Video":
+    - /url: https://www.youtube.com/watch?v=tJcXUVpv35M
+  - figure
+  - heading "Donut" [level=3]
+  - paragraph: Good taste without any topping. Different type of shapes in original flavor.
+  - paragraph
+  - link "Subscribe Me":
+    - /url: https://www.youtube.com/@liyang9875
+  - heading [level=2]
+  - heading "How to Make Strawberry Birthday Cake:" [level=2]:
+    - emphasis: "How to Make Strawberry Birthday Cake:"
+  - figure:
+    - iframe
+  - strong: Bakery makes you feel better!
+  - strong: If you want to learn more about how to bake cakes, muffins, waffles and so on,
+  - link "please feel free to contact me!":
+    - /url: /2024/09/05/contact-me-2/
+    - strong: please feel free to contact me!
+  - paragraph
+  - paragraph
+- contentinfo:
+  - paragraph:
+    - strong:
+      - emphasis: Location
+  - paragraph: Stonefields, Auckland, NZ
+  - paragraph:
+    - strong:
+      - emphasis: Links
+  - navigation "Footer navigation 6":
+    - list:
+      - listitem:
+        - link "Homepage":
+          - /url: /2024/09/01/181/
+      - listitem:
+        - link "How to make":
+          - /url: https://www.youtube.com/watch?v=i7REn4RRRRE
+      - listitem:
+        - link "Product":
+          - /url: /2024/09/02/189/
+      - listitem:
+        - link "Contact":
+          - /url: /2024/09/05/contact-me-2/
+  - paragraph:
+    - strong:
+      - emphasis: Contact
+  - paragraph:
+    - link "YouTube":
+      - /url: https://www.youtube.com/@liyang9875
+  - paragraph:
+    - link "Contact me":
+      - /url: /2024/09/05/contact-me-2/
+  - paragraph:
+    - text: Proudly powered by
+    - link "WordPress":
+      - /url: https://wordpress.org/
+```

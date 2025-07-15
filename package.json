@@ -1,0 +1,14 @@
+{
+  "name": "yummylibakery-tests-js",
+  "version": "1.0.0",
+  "scripts": {
+    "regression": "npx playwright test",
+    "hometest": "npx playwright test --grep @Home",
+    "subsButtontest": "npx playwright test --grep @SubsButton",
+    "test:report": "playwright test && allure generate allure-results --clean -o allure-report && allure open allure-report"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.44.1",
+    "allure-playwright": "^2.0.0-beta.20"
+  }
+}
