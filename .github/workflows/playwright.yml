@@ -33,4 +33,4 @@ jobs:
         with:
           name: allure-results
           path: allure-results
-        # Test workflow for Playwright
+        # Trigger Git to detect file change
