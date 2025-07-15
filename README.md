@@ -48,11 +48,11 @@ Integrated with Jenkins, Allure Reporting, and CI/CD pipelines.
      
 
 5. Generate Allure report:
-6. 
+   
    <img width="940" height="201" alt="image" src="https://github.com/user-attachments/assets/6b4f5742-0568-4145-a6b2-b65dd8fe2ee4" />
    <img width="940" height="444" alt="image" src="https://github.com/user-attachments/assets/8e0e9b76-745a-4ee0-b282-b639ed462f50" />
 
-7. Jenkins
+6. Jenkins
    
    build with parameters:
    <img width="940" height="313" alt="image" src="https://github.com/user-attachments/assets/103ae9c0-0b1a-4017-965e-d9474359bd2e" />
