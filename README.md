@@ -57,7 +57,7 @@ Integrated with Jenkins, Allure Reporting, and CI/CD pipelines.
 
    <img width="940" height="700" alt="image" src="https://github.com/user-attachments/assets/08887cdd-a180-4bfa-a86c-323f48731afc" />
 
-   Console Output with different parameters:
+   -- Console Output with different parameters:
    
       <img width="940" height="407" alt="image" src="https://github.com/user-attachments/assets/63e582f1-3541-476e-a073-26bbfa50bfda" />
 
@@ -70,11 +70,10 @@ Integrated with Jenkins, Allure Reporting, and CI/CD pipelines.
      
 ⚙️ CI/CD Integration
 
-Jenkins pipeline configured via Jenkinsfile in each test folder.
-
 GitHub Actions workflow available at .github/workflows/playwright.yml.
 
 Allure reports integrated for detailed test reporting.
+
 
 🧪 Test Coverage
 
@@ -82,17 +81,23 @@ Homepage title and content verification.
 
 Subscribe button visibility and navigation.
 
+
 📝 Notes
 
 Tests run in headless mode by default.
 
 Modify tests and configs as needed to fit your environment or website changes.
 
+
 📞 Contact
+
+
 For questions or support, please reach out to:
 
 Hannah
+
 Email: hannah.liyang@gmail.com
+
 GitHub: https://github.com/Hannah-likes-coding
 
 
