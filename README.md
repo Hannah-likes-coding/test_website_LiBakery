@@ -1,7 +1,5 @@
 # Li Bakery Website Testing
 
-  (Playwright, Jenkins, Allure Reporting, and CI/CD pipelines)
-
 This repository contains automated end-to-end UI tests for the [Li Bakery website](https://yummylibakery.netlify.app) using Playwright. The tests cover critical user interactions such as homepage and Subscribe button validation.
 ---
 
