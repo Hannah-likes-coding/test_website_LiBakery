@@ -1,6 +1,6 @@
 # Li Bakery Website Testing
 
-This repository contains automated end-to-end UI tests for the [Li Bakery website](https://yummylibakery.netlify.app) using Playwright. The tests cover critical user interactions such as homepage and Subscribe button validation
+This repository contains automated end-to-end UI tests for the [Li Bakery website](https://yummylibakery.netlify.app) using Playwright. The tests cover critical user interactions such as homepage and Subscribe button validation.
 ---
 
 Integrated with Jenkins, Allure Reporting, and CI/CD pipelines.
@@ -48,21 +48,29 @@ Integrated with Jenkins, Allure Reporting, and CI/CD pipelines.
      
 
 5. Generate Allure report:
+6. 
    <img width="940" height="201" alt="image" src="https://github.com/user-attachments/assets/6b4f5742-0568-4145-a6b2-b65dd8fe2ee4" />
    <img width="940" height="444" alt="image" src="https://github.com/user-attachments/assets/8e0e9b76-745a-4ee0-b282-b639ed462f50" />
 
-6. Jenkins:
+7. Jenkins
+   
    build with parameters:
    <img width="940" height="313" alt="image" src="https://github.com/user-attachments/assets/103ae9c0-0b1a-4017-965e-d9474359bd2e" />
 
    <img width="940" height="700" alt="image" src="https://github.com/user-attachments/assets/08887cdd-a180-4bfa-a86c-323f48731afc" />
+   
 
    -- Console Output with different parameters:
    
+   1)
+   
       <img width="940" height="407" alt="image" src="https://github.com/user-attachments/assets/63e582f1-3541-476e-a073-26bbfa50bfda" />
-
+      
+   2)
       
       <img width="1013" height="425" alt="image" src="https://github.com/user-attachments/assets/ab01e4a9-5205-49f1-ad6b-77a0a2b9adad" />
+  
+   3)
 
       
       <img width="940" height="386" alt="image" src="https://github.com/user-attachments/assets/d5404625-50ad-442c-b4ed-31b3bdadfed0" />
